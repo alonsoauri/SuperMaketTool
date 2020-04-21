@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">SuperMaketTool</string>
+    <string name="title_activity__lists">Activity_Lists</string>
+    <string name="title_activity_lists">Lists</string>
+    <string name="title_activity_items_list">itemsList</string>
+    <string name="texto_cb">Código de barras</string>
+    <string name="texto_nombre_producto">Nombre del producto</string>
+    <string name="texto_categoria">Categoría</string>
+    <string name="texto_Precio">Precio</string>
+    <string name="texto_um">UM</string>
+    <string name="texto_sm">Super mercado</string>
+    <string name="texto_cantidad">Cantidad</string>
+    <string name="texto_titulo_add_prod">Agregar Producto</string>
+    <string name="texto_titulo_input_box">Nombre de la Lista: </string>
+    <string name="Confirm_message"> ¿Desea borrar esta lista? </string>
+    <string name="message_error_pass_user_empty"> Todos los campos son obligatorios </string>
+    <string name="message_credenciales_invalidas"> Usuario o contraseña incorrectos </string>
+    <string name="message_usuarioenuso"> Ingrese otro nombre de usuario </string>
+    <string name="message_inesperado"> Ha ocurrido un error inesperado </string>
+    <string name="message_usuario_exito">Su registro se ha completado</string>
+    <string name="message_Lista_crada">Lista creada correctamente</string>
+    <string name="message_add_Item">Articulo agregado a la Lista correctamente</string>
+    <string name="message_Lista_eliminada">Lista eliminada correctamente</string>
+
+    <string-array name="UM">
+        <item>N/A</item>
+        <item>PZA</item>
+        <item>L</item>
+        <item>Kg</item>
+        <item>M</item>
+    </string-array>
+
+</resources>
+
+
